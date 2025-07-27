@@ -49,3 +49,9 @@ eagle.epf
 
 # file locks introduced since 7.x
 *.lck
+
+# Exclude datasheets
+*.pdf
+
+# Exclude .scr scripts 
+*.scr

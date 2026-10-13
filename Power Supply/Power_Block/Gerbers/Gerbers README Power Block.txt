@@ -16,7 +16,7 @@ Fabrication parameters
 
 Fabrication Comments
 -------------------------
-* Miling outlines on X1 require board cutouts
+* Milling outlines on X1 require board cutouts
 
 
 CAD Package
